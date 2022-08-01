@@ -8,8 +8,10 @@ Paquete de R tan inútil como divertido que proporciona citas de la obra teatral
 
 Puedes instalar el paquete directamente desde GitHub usando una función del paquete `devtools`:
 
-    install.packages("devtools")  # si no tienes el paquete instalado
-    devtools::install_github("pauinsanchez/bohemiaR")
+``` r
+install.packages("devtools")  # si no tienes el paquete instalado
+devtools::install_github("pauinsanchez/bohemiaR")
+```
 
 ## Funciones
 
