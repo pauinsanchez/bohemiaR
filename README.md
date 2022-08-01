@@ -1,6 +1,6 @@
 # bohemiaR
 
-Paquete de R tan inútil como divertido que proporciona citas de la obra teatral Luces de bohemia (1924), de Ramón-María del Valle Inclán.
+Paquete de R tan inútil como divertido que proporciona citas de la obra teatral Luces de bohemia (1924), de Ramón-María del Valle Inclán, para todos aquellos momentos en los que nos haga falta una buena dosis de esperpento en nuestras sesiones de trabajo con R.
 
 ## Instalación
 
