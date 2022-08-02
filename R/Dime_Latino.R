@@ -9,7 +9,7 @@
 #' Dime_Latino()
 Dime_Latino <- function(){
   # leer el archivo de citas base
-  usethis::use_data(citas, internal = TRUE)
+  citas <- as.data.frame(citas)
 
   citas_latino <- subset(citas, citas$PERSONAJE == "Don Latino")
 

@@ -9,7 +9,7 @@
 #' Dime_Max()
 Dime_Max <- function(){
   # leer el archivo de citas base
-  usethis::use_data(citas, internal = TRUE)
+  citas <- as.data.frame(citas)
 
   citas_max <- subset(citas, citas$PERSONAJE == "Max Estrella")
 
