@@ -1,7 +1,5 @@
 Dime_Max <- function(){
   # leer el archivo de citas base
-  citas <- read.csv("data-raw/data-citas-raw.csv", sep = ";")
-
   citas_max <- subset(citas, PERSONAJE == "Max Estrella")
 
   citas_max$ESCENA <- paste0("(", citas_max$ESCENA, ")")
