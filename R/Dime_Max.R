@@ -1,3 +1,12 @@
+#' Dime Max
+#'
+#' Pide a Max Estrella que te deleite con una de sus frases de la obra
+#'
+#' @return Una cadena de caracteres con una cita de Max Estrella, con indicación de la escena de la obra en la que aparece
+#' @export
+#'
+#' @examples
+#' Dime_Max()
 Dime_Max <- function(){
   # leer el archivo de citas base
   citas <- as.data.frame(citas)

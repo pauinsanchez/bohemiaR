@@ -1,3 +1,12 @@
+#' Dime Latino
+#'
+#' Pide a don Latino de Híspalis que te deleite con una de sus frases de la obra
+#'
+#' @return Una cadena de caracteres con una cita de don Latino, con indicación de la escena de la obra en la que aparece
+#' @export
+#'
+#' @examples
+#' Dime_Latino()
 Dime_Latino <- function(){
   # leer el archivo de citas base
   citas <- as.data.frame(citas)
