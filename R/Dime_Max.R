@@ -7,7 +7,7 @@ Dime_Max <- function(){
   citas_max$ESCENA <- paste0("(", citas_max$ESCENA, ")")
 
   # asignar un número a cada cita
-  citas_max$idx <- as.numeric(rownames(citas_max))
+  citas_max$idx <- seq.int(nrow(citas_max))
 
   # escoger una cita aleatoria
   rand_citas_max <- sample(citas_max$idx, 1)
