@@ -1,6 +1,8 @@
 Dime_Latino <- function(){
   # leer el archivo de citas base
-  citas_latino <- subset(citas, PERSONAJE == "Don Latino")
+  citas <- as.data.frame(citas)
+
+  citas_latino <- subset(citas, citas$PERSONAJE == "Don Latino")
 
   citas_latino$ESCENA <- paste0("(", citas_latino$ESCENA, ")")
 
