@@ -1,3 +1,5 @@
 ^bohemiaR\.Rproj$
 ^\.Rproj\.user$
 ^data-raw$
+^doc$
+^Meta$
