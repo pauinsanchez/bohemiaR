@@ -1,3 +1,6 @@
 # bohemiaR 0.1.0
 
-* Added a `NEWS.md` file to track changes to the package.
+* Created the package
+* Added the `Dime_Max` function
+* Added the `Dime_Latino` function
+* Added a vignette
