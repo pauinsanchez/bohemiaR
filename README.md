@@ -13,6 +13,8 @@ Puedes instalar el paquete directamente desde GitHub usando una función del paq
 ``` r
 # install.packages("devtools")
 devtools::install_github("pauinsanchez/bohemiaR")
+
+library(bohemiaR)
 ```
 
 ## Funciones
