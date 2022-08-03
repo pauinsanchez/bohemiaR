@@ -3,7 +3,7 @@ pkgdown: 2.0.6
 pkgdown_sha: ~
 articles:
   bohemiaR: bohemiaR.html
-last_built: 2022-08-03T10:00Z
+last_built: 2022-08-03T10:03Z
 urls:
   reference: https://pauinsanchez.github.io/bohemiaR/reference
   article: https://pauinsanchez.github.io/bohemiaR/articles
