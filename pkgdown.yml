@@ -1,0 +1,10 @@
+pandoc: 2.14.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  bohemiaR: bohemiaR.html
+last_built: 2022-08-03T09:51Z
+urls:
+  reference: https://pauinsanchez.github.io/bohemiaR/reference
+  article: https://pauinsanchez.github.io/bohemiaR/articles
+
