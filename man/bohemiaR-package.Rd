@@ -8,6 +8,13 @@
 \description{
 Colección de citas de la obra teatral Luces de bohemia (1924), de Ramón-María del Valle-Inclán.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://pauinsanchez.github.io/bohemiaR/}
+}
+
+}
 \author{
 \strong{Maintainer}: Pau Insa-Sánchez \email{pau.insa@gmail.com} (\href{https://orcid.org/0000-0003-0841-7612}{ORCID})
 
